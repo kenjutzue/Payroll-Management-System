@@ -2,6 +2,8 @@
 
 The Payroll Management System is a desktop application developed in the C++ programming language. This project offers straightforward functionality for managing payroll for your employees. The system can generate accurate salary results for employees based on their performance hours. The Payroll Management System in C++ can efficiently release employee pay slips during payday. This project serves as an introduction to advanced coding techniques in the C++ programming language.
 
+The Payroll Management System in C++ is free to be downloaded just read the content below for more info. This application is for educational purpose only.
+
 # Payroll Management System in C++ with Source Code Basic Information
 
 - Language used: C++

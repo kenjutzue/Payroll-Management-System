@@ -25,7 +25,7 @@ The Payroll Management System was developed using the C++ programming language. 
 
 # Payroll Management System in C++ Installation Guide
 
-1. Download the source code in this site.
+1. Download the a zip file in this site.
 2. Locate and Extract the zip file.
 3. Open the extracted folder
 4. Locate the C++ file.

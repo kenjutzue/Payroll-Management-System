@@ -31,3 +31,8 @@ The Payroll Management System was developed using the C++ programming language. 
 4. Locate the C++ file.
 5. Then open the file via Embarcadero Dev-C++ or any IDE's that can run C++ file.
 6. Then click run and build.
+
+# User Login Information
+
+Username: admin
+Password: admin

@@ -7,7 +7,7 @@ The Payroll Management System in C++ is free to be downloaded just read the cont
 # Payroll Management System in C++ with Source Code Basic Information
 
 - Language used: C++
-- Coding Tool used: Embarcadero Dev-C++ or Any IDE that run C language
+- Coding Tool used: Embarcadero Dev-C++ or Any IDE that run C++ language
 - Type: Desktop Application
 - Database used: Text file generated
 

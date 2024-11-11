@@ -34,5 +34,6 @@ The Payroll Management System was developed using the C++ programming language. 
 
 # User Login Information
 
-Username: admin
-Password: admin
+ Username: admin
+
+ Password: admin
